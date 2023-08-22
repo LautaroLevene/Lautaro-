@@ -1,0 +1,107 @@
+body{
+    font-family: 'Roboto';
+}
+    header{
+    background-color: #EAC926;
+    width: 100%;
+    padding: 15px;
+
+    }
+    img{
+        width: 100%;
+        text-align: center;
+        
+    }
+    .logo{
+        width: 60%;
+        padding: 25px; 
+    
+    }
+
+
+    main{
+        background-color: #ebebeb;
+        text-align: center;
+        
+    }
+    .imagenes{
+        width: 100%;
+        border-bottom: 1px solid #ebebeb ;
+    }
+    article{
+        padding-bottom: 10px;
+    }
+
+
+.decoration{
+    text-decoration: none;
+}
+.tamaño-grande{
+    font-size: 24px;
+    text-align: left;
+}
+p{
+    font-size: 12px;
+}
+.precios{
+   font-size: 18px;
+   text-align: left;
+}
+.descuentos{
+   font-size: 16px;
+   color: #39b54a;
+   text-align: left;
+}
+
+.lupa{
+    background-color: white;
+}
+.burger-menu{
+    
+        padding:20px;
+    }
+    
+    .hamburguesa{
+        text-align: center;
+        display: block;
+        max-width: 50px;
+        padding: 5px;
+        background-color: #1259c3;
+        color: white;
+        border-radius: 5px;
+        font-size: 20px;
+        margin: auto;
+    }
+
+footer{
+        text-align: center;
+        background-color: white;
+    }
+.fa-solid{
+    font-size: 2em;
+    line-height: 10px;
+    color: #1259c3;
+}
+.interlineado-footer{
+    line-height: 1px;
+}
+.iconos{
+    color: #39b54a;
+    text-align: left;
+}
+article{
+    background-color: white;
+    margin: auto;
+    width: 90%; 
+    text-align: left;
+    margin-bottom: 10px;
+    border-bottom: 30px solid #ebebeb;
+}
+@media (min-width:769px){
+     .descripciones{
+        font-size: 16px;
+   text-align: left;
+     }
+}
+
+
